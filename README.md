@@ -2,9 +2,7 @@
 
 I’m currently attending a master in Aeronautical Engineering at Politecnico di Milano.
 
-👀 I’m interested in enginnering topics
-
-My main interests in the aviation field are: flight dynamics, aerodynamics, control systems, modeling and simulation of aerospace systems, flight tests
+My main interests in the aviation field are: flight dynamics, aerodynamics, control systems, modeling and simulation of aerospace systems, flight tests.
 
 how to contact me: alberto.dispenza@outlook.com
 
